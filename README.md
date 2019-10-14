@@ -48,6 +48,6 @@ proceed as follows:
 
 6. If you have installed [tek4010](https://github.com/rricharz/Tek4010)
    you can now display your Tektronix 4014 grayscale image with
-   "tek4010 -noexit -b100000 cat image.plt". Be patient. This is state
-   of the art 1970's grayscale image display at speed the
+   "tek4010 -b100000 -noexit cat image.plt". Be patient. This is state
+   of the art 1970s grayscale image display at the speed the
    Tektronix 4014 was able to handle.
