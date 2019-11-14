@@ -1,4 +1,4 @@
 all: maketekimage
-maketekimage: maketekimage.c maketekimage.h image.h
+maketekimage: maketekimage.c image.h
 	gcc -o maketekimage maketekimage.c
 
